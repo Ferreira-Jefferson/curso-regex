@@ -1,5 +1,5 @@
 /* . é um coringa, válido para uma posição, ou seja, assume que onde o .(ponto) foi definido HÁ um caracter qualquer. 
-* Obs: existem excessões
+* Obs: existem excessões: \n
 */
 
 const texto = '1,2,3,4,5,6,a.b c!d?e'
