@@ -1,5 +1,8 @@
 # Curso Regex
 
+![alt text](./metacaracteres.png "Metacaracteres")
+
+
 ### Fundamentos de Expressões Regulares (Regex)
 
 Expressões Regulares (Regex) são um assunto simples e de extrema importância dentro da área de programação. Entretanto, se eu tivesse que arriscar um palpite, acredito que a maioria dos programadores desconhecem quase que completamente os princípios básicos das Regex.
@@ -25,7 +28,7 @@ Para quem é este curso:
 Programadores que desejam entender os fundamentos das expressões regulares
 Programadores que desejam aprender como usar expressões regulares
 
-### Referência online: https://aurelio.net/regex/guia/
+### Referência on-line: https://aurelio.net/regex/guia/
 
 
 ## Instrutor: Leonardo Moura Leitão
