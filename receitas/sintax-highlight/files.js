@@ -1,9 +1,9 @@
 const fs = require('fs')
 
-const read = file => fs.readFileSync(`${__dirname}\\original\\${file}`, { encoding: 'utf8' })
+const read = file => fs.readFileSync(`${__dirname}\\${file}`, { encoding: 'utf8' })
 
 const write = (file, body) => {
-  const dirname = `${__dirname}\\alterado`
+  const dirname = __dirname
   if (!fs.existsSync(dirname)) {
     fs.mkdirSync(dirname)
   }
