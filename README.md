@@ -28,7 +28,9 @@ Para quem é este curso:
 Programadores que desejam entender os fundamentos das expressões regulares
 Programadores que desejam aprender como usar expressões regulares
 
-### Referência on-line: https://aurelio.net/regex/guia/
+### Referências on-line: 
+  * #### https://aurelio.net/regex/guia/ 
+  * #### http://www.regular-expressions.info/posixbrackets.html
 
 
 ## Instrutor: Leonardo Moura Leitão
